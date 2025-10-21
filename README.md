@@ -6,6 +6,9 @@
 
 - Web tabanlı uygulamalar, Veri tabanı çözümleri, dijital pazarlama, e-commerce gibi konularda destek sağlamaktadır...
 
+<a href="https://www.batisis.com.tr" target="_blank">Web Site</a>
+<a href="https://blog.batisis.com" target="_blank">Blog Site</a>
+
 <!--
 **batisis/batisis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
