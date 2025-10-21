@@ -1,4 +1,10 @@
-## Hi there 👋
+## Merhaba 👋
+
+- BatıSIS, 15 yıldan fazladır bilişim hizmetlerinde tecrübesi ve 10 yıldan fazla özel sektördeki yetkinliğini birleştirerek doğru çözümleri ihtiyaç duyduğunuz alanlarda size sunmak için faaliyetini BatıSIS Bileşim Hizmetleri olarak sürdürmektedir. 
+
+- Bilişim teknolojilerinde müşteri ihtiyaçlarına uygun olan teknolojileri sunmak ve koşulsuz müşteri memnuniyeti sağlamak.
+
+- Web tabanlı uygulamalar, Veri tabanı çözümleri, dijital pazarlama, e-commerce gibi konularda destek sağlamaktadır...
 
 <!--
 **batisis/batisis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
